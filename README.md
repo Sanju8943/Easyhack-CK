@@ -19,8 +19,6 @@ all that on Termux
 6. `chmod +x install.sh`
 7. Type `EasY-HaCk`
 
-![]![PicsArt_10-15-03 36 27](https://user-images.githubusercontent.com/56509491/66862492-9e423d80-efae-11e9-8b2f-004d5381297a.png)
-
 ## [ USAGE ]:
 {1}-Payload Generator
 
@@ -44,7 +42,7 @@ To update the Tool choose option number `10`
 
 ## [My YouTube Channel]
 
-🔘 https://www.youtube.com/channel/UClOU5rN6W_YBEOVQfrkqhmA
+🔘 
 
 
 
